@@ -4,3 +4,4 @@
 .venv
 *.pdf
 *.pptx
+*.env
