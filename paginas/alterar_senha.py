@@ -23,4 +23,4 @@ def pagina_alterar_senha():
             st.success(":white_check_mark: Senha alterado com sucesso")
 
             st.session_state.usuario = None
-            st.rerun()
+            # st.rerun()
